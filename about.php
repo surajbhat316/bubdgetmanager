@@ -29,7 +29,7 @@
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item "><a class="nav-link" href="./index.php"><span class="fa fa-home fa-lg"></span> Home</a></li>
                     <li class="nav-item active"><a class="nav-link" href="#"><span class="fa fa-info fa-lg"></span> About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="donate.php"><span class="fa fas fa-heart"></span> Donate</a></li>
+                    <li class="nav-item"><a class="nav-link" href="logout.php"><span class="fa fas fa-sign-out"></span> Logout</a></li>
                 </ul>
 
             </div>

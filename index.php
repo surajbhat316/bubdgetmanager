@@ -108,7 +108,7 @@ if ( isset($_POST['name']) && isset($_POST['email'])
 
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active"><a class="nav-link" href="#"><span class="fa fa-home fa-lg"></span> Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="./about.html"><span class="fa fa-info fa-lg"></span> About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./about.php"><span class="fa fa-info fa-lg"></span> About</a></li>
 
                 </ul>
 
